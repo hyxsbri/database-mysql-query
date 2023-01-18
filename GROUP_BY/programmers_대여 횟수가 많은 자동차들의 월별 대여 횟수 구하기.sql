@@ -9,5 +9,5 @@ group by 1
 having where month(start_date) between 8 and 10>= 5)
 and month(start_date) between 8 and 10
 group by 1, 2
-order by 1, 2 desc
+order by 1, 2 desc;
 
