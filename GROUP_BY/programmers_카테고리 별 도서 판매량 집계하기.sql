@@ -12,6 +12,5 @@ from t
 where sales_date >= "2022-01-01 00:00:00"
 and sales_date < "2022-02-01 00:00:00"
 group by category
-order by category
-
+order by category;
 
