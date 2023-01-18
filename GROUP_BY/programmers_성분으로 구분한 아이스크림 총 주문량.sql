@@ -5,5 +5,5 @@ from icecream_info a
 join first_half b
 on a.flavor = b.flavor
 group by a.ingredient_type
-order by sum(b.total_order)
+order by sum(b.total_order);
 
