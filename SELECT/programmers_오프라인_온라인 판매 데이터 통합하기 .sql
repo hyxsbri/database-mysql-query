@@ -1,9 +1,5 @@
 
 
-
-
-
-
 with sales_data as (
 select sales_date, product_id, user_id, sales_amount
 from online_sale
@@ -18,16 +14,5 @@ from sales_data
 where sales_date between
 '2022-03-01 00:00:00' and '2022-03-31 23:59:59'
 # 2022년 3월 판매 데이터 
-order by sales_date asc, product_id asc, user_id asc
-
-
-
-
-
-
-
-
-
-
-
+order by sales_date asc, product_id asc, user_id asc;
 
