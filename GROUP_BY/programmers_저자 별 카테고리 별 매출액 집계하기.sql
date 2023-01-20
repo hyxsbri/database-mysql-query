@@ -12,5 +12,5 @@ left join tbl d
 on c.book_id = d.book_id
 where c.sales_date like "2022-01%"
 group by 1, 3
-order by 1 asc, 3 desc
+order by 1 asc, 3 desc;
 
