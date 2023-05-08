@@ -4,4 +4,4 @@
 ### 문제 출처 - 프로그래머스
 ### https://school.programmers.co.kr
 #
-# 2. 직무부트캠프
+# 2. 직무부트캠프_SQL_dashboard.ipynb
