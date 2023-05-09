@@ -1,5 +1,5 @@
 #
-# 1. SQL 쿼리 기능별 문제 풀이 과정 기록(MySQL)
+# 1. SQL 쿼리별 문제 솔루션 과정 기록(MySQL)
 ### GROUP_BY
 ### IS_NULL
 ### JOIN
