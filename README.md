@@ -6,8 +6,8 @@
 
 * SELECT, GROUP BY, WITH, DATE_FORMAT, JOIN 등 다양한 쿼리를 적용해 100여 개의 문제를 풀이하면서 MySQL 활용 경험을 쌓았습니다.
 
-### 문제 출처 - 프로그래머스
-### https://school.programmers.co.kr
+#### 문제 출처 - 프로그래머스
+#### https://school.programmers.co.kr
 
 # 2. 직무부트캠프_SQL_dashboard
 ## 2022.06.29 ~ 2022.08.16
